@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating things
 - 🌱 I’m currently learning unity and c++
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me seancrawford55@gmail.com
+- 📫 How to reach me spcrawford317@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I built my first computer when I was 10 years old.
 
