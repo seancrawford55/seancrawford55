@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @seancrawford55
 - 👀 I’m interested in creating things
-- 🌱 I’m currently learning unity and c++
+- 🌱 I’m currently learning gamemaker
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me spcrawford317@gmail.com
 - 😄 Pronouns: He/Him
